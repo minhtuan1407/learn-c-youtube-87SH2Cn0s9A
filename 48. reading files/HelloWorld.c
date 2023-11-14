@@ -2,7 +2,7 @@
 
 int main() {
 
-    FILE *pF = fopen("/Users/minhtuan1407/git-repo/minhtuan1407/learn-c-youtube-87SH2Cn0s9A/48.\ writing\ files/test.txt", "a");
+    FILE *pF = fopen("/Users/minhtuan1407/git-repo/minhtuan1407/learn-c-youtube-87SH2Cn0s9A/48. writing files/test.txt", "a");
 
     fprintf(pF, "Spongebob Squarepants\n");
 
